@@ -1,6 +1,8 @@
 <h1 align="center">Leigh Dela Cruz</h1>
 <h3 align="center">I am a Computer Science student at FEU Institute of Technology. Currently, I’m focused on web development and enjoy complementing it with creating UI designs in Figma.</h3>
 
+- 🤝 Contributed to the backend of the [Evently Website](https://github.com/r-andreitomas/evently)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
