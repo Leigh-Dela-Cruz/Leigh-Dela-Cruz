@@ -3,7 +3,7 @@
 
 - 🤝 Contributed to the backend of the [Evently Website](https://github.com/r-andreitomas/evently)
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:</h3> (www.linkedin.com/in/leigh-adrienne-dela-cruz-31ba44380)
 <p align="left">
 </p>
 
