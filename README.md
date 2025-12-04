@@ -1,5 +1,5 @@
 <h1 align="center">Leigh Dela Cruz</h1>
-<h3 align="center">I am a Computer Science student at FEU Institute of Technology. Currently, I’m focused on web development and enjoy complementing it with creating UI designs in Figma.</h3>
+<h3 align="center">I am a Computer Science student at FEU Institute of Technology.</h3>
 
 - 🌐 Connect with me on [LinkedIn](https://www.linkedin.com/in/leigh-adrienne-dela-cruz-31ba44380)
 
